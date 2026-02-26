@@ -10,7 +10,7 @@ st.write("This is to test my Streamlit setup.")
 
 
 
-text = st.text_input(label="Enter your query which you want to convert to hindi", key="input_text")
+text = st.text_input(label="Enter your query which you want to convert to Punjabi", key="input_text")
 
 
 def translater(input_text):
